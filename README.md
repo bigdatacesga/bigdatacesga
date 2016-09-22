@@ -1,2 +1,2 @@
-# bigdatacesga
-BD|CESGA Platform
+# BD|CESGA
+Main repository
